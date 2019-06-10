@@ -1,4 +1,4 @@
 module.exports = {
-    publicPath: '\'/demodeploy/\'',
+    publicPath: '/demodeploy/',
     outputDir: 'docs'
 }
